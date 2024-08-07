@@ -17,7 +17,7 @@ In today's digital age, many elderly individuals face significant challenges in 
 
 This platform aims to empower the elderly by bridging the digital divide, improving access to vital services, and maintaining social connections, ultimately enhancing their quality of life.
 
-**##Features**
+**#Features**
 >> Large Icons: Provides easy-to-see icons.
 >> High-Contrast Text: Improves readability for users with vision impairment.
 >> Voice Commands: Allows users to navigate using their voice.
